@@ -24,5 +24,9 @@ indica de dos a cinco horas, 3 indica de cinco a diez horas, 4 indica más de di
 
 • “G3”. Calificación final, escala del 0 al 20
 
+[Reporte en formato Notebook](Modelo_Calificaciones.ipynb)
 
+[Reporte en formato HTML](Modelo_Calificaciones.html)
+
+[Base de datos CSV](https://github.com/Ethan-R-R/Regresion_Lineal_Calificaciones/blob/9e04c3a64e6fd878be5334ae1f71ecf922ed193a/A1.5%20Calificaciones.csv)
 
